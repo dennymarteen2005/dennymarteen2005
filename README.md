@@ -32,6 +32,11 @@ Machine learning model predicting potential drug interactions using pharmaceutic
 ---
 
 ## 📊 Coding Profiles
+## 📊 GitHub Stats
+
+![Snehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennymarteen2005&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennymarteen2005&layout=compact&theme=tokyonight)
 
 LeetCode: https://leetcode.com/u/ba6FfcZ3lB/
 
