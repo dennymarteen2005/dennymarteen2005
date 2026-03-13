@@ -47,9 +47,19 @@ HackerRank: https://www.hackerrank.com/profile/dennysnehal
 ## 🌐 Connect with Me
 
 LinkedIn: https://linkedin.com/in/snehal-marteen-garikamukkala-98919a294
+Email: snehalmarteen@gmail.com
 
 ## 📚 Currently Learning
 
 - Data Structures and Algorithms
 - Deep Learning
 - System Design
+
+### 🎯 Gesture Based PPT Controller
+Computer vision system that detects hand gestures to control PowerPoint presentations using Python and OpenCV.
+
+### 🧠 Drug Interaction Predictor
+Machine learning model that predicts potential drug interactions using pharmaceutical datasets and classification algorithms.
+
+### 🤖 Autism Support System
+AI-based assistive tool designed to support communication for children with autism using machine learning analysis.
