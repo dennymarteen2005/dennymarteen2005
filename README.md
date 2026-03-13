@@ -47,3 +47,9 @@ HackerRank: https://www.hackerrank.com/profile/dennysnehal
 ## 🌐 Connect with Me
 
 LinkedIn: https://linkedin.com/in/snehal-marteen-garikamukkala-98919a294
+
+## 📚 Currently Learning
+
+- Data Structures and Algorithms
+- Deep Learning
+- System Design
